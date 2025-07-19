@@ -1,4 +1,4 @@
-echo "# personal_flask_demo
+# personal_flask_demo
 
 這是一個簡單的 Flask 網頁應用示範，包含多個路由、HTML 頁面、JSON API 等功能。
 
